@@ -1,0 +1,29 @@
+body {
+margin: 0;
+padding: 0;
+background: url('https://s13.postimg.org/o38upe11h/image.png');
+color: #484848;
+font-size: 12px;
+font-family: Times New Roman, Tahoma, sans-serif;
+text-algin: center;
+
+}
+
+#logo {
+margin: 0;
+padding: 0;
+background: url("https://s18.postimg.org/5v2i5vrix/image.png") no-repeat;
+width: 500px;
+height: 629px;
+clear: left;
+position: fixed; top;
+}
+
+#naglowek {
+background: url('https://s22.postimg.org/c4zz6o6y7/nag.png');
+border-bottom: 1px solid #9b9b9b;
+text-shadow:2px 3px 6px black;
+width: 700px;
+height: 160px;
+
+}
