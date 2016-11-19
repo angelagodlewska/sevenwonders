@@ -13,9 +13,9 @@ text-algin: center;
 margin: 0;
 padding: 0;
 background: url("https://s18.postimg.org/5v2i5vrix/image.png") no-repeat;
-width: 500px;
-height: 629px;
-clear: left;
+width: 700px;
+height: 200px;
+
 position: fixed; top;
 }
 
@@ -23,6 +23,6 @@ position: fixed; top;
 background: url('https://s22.postimg.org/c4zz6o6y7/nag.png');
 width: 1882px;
 height: 168px;
-margin-top: 400px;
+margin-top: 200px;
 
 }
