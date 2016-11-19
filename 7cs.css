@@ -4,27 +4,26 @@ margin: 0;
 padding: 0;
 background: url('https://s13.postimg.org/o38upe11h/image.png');
 color: #484848;
-font-size: 12px;
+font-size: 12%;
 font-family: Times New Roman, Tahoma, sans-serif;
 text-algin: center;
-box-sizing: border-box;
-@media screen and (max-width:1024px)
+
 }
 
 #logo {
 margin: 0;
 padding: 0;
 background: url("https://s18.postimg.org/5v2i5vrix/image.png") no-repeat;
-width: 700px;
-height: 200px;
+width: 700%;
+height: 200%;
 
 
 }
 
 #naglowek {
 background: url('https://s22.postimg.org/c4zz6o6y7/nag.png');
-width: 1882px;
-height: 168px;
-margin-top: 50px;
+width: 1882%;
+height: 168%;
+margin-top: 50%;
 
 }
