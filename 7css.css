@@ -1,0 +1,175 @@
+body {
+margin: 0;
+padding: 0;
+background: url('https://s13.postimg.org/o38upe11h/image.png');
+color: #484848;
+font-size: 12px;
+font-family: Times New Roman, Tahoma, sans-serif;
+}
+
+#kontener {
+width: 700px;
+margin: 5px auto;
+margin-right: 165px;
+text-align: left;
+background: #dfdfdf url('http://orka.am.gdynia.pl/~s37515/szabloncss/images/bgg.jpg') repeat-y;
+box-shadow:0 0 15px black;
+
+#logo {
+margin: 0;
+padding: 0;
+background: url("https://s18.postimg.org/5v2i5vrix/image.png") no-repeat;
+width: 700px;
+height: 120px;
+margin-top: 50px;
+
+}
+
+#naglowek {
+background: url('https://s22.postimg.org/c4zz6o6y7/nag.png');
+width: 1882px;
+height: 168px;
+margin-top: 1px;
+text-shadow:2px 3px 6px black;
+
+}
+
+#naglowek h1 {
+
+padding: 0px 0;
+font-size: 70px;
+color: #ffffff;
+text-align: center;
+}
+
+
+#banner {
+background: url('http://i638.photobucket.com/albums/uu103/caue_photo/seven-wonders-of-the-world-banner.jpg');
+width: 1882px;
+height: 168px;
+margin-top: 100px;
+text-shadow:2px 3px 6px black;
+
+}
+
+#menu {
+
+box-shadow:0 0 15px black;
+
+
+}
+
+#menu ul {
+        margin:0;
+        padding:0;
+        list-style-type:none;
+				margin-top:10px;
+				margin-bottom:10px;
+				margin-left: 38%;
+				
+				      }
+
+      /* wyglšd elementów - li */
+     #menu ul > li {
+        float:left;
+				font-size: 70px;
+
+
+      }
+
+      /* wyglšd nieparzystych elementów - li elementu - ul */
+     #menu ul > li:nth-child(even) {
+        background-color:#ffffff;
+      }
+
+      /* wyglšd parzystych elementów - li elementu - ul */
+     #menu ul > li:nth-child(odd) {
+        background-color:#ec561b;
+      }
+
+      /* wyglšd elementów - a */
+     #menu ul > li > a {
+        display:block;
+        text-decoration:none;
+        color:#000;
+      }
+
+
+#menu a {
+display: block;
+padding: 10px 20px;
+color: #ec561b;
+font-size: 18px; 
+box-shadow:0 0 15px black;
+}
+
+
+#logo {
+
+
+}
+#tabelka table {
+border: 1px solid black;
+border-collapse: collapse;
+background-color: #ffffff;
+table-layout: fixed; width: 100%;
+}
+
+#tablelka table,tr,td {
+border:1px solid black;
+}
+#menup
+{float:left;
+border-style: solid;
+background: #ec561b;
+font-family: Georgia;
+color: #005177;
+display: block;
+clear:both;
+margin: 0;
+}
+#menuprzynety{float:left;
+border-style: solid;
+background: #a6d2ff;
+font-family: Georgia;
+color: #ec561b;
+display: block;
+clear:both;
+margin:0;
+}
+
+#menus{
+clear:both;
+float:left;
+border-style: solid;
+background: #a6d2ff;
+font-family: Georgia;
+color: #005177;
+display: block;
+margin:0;
+}
+#menuz{float:left;
+border-style: solid;
+background: #a6d2ff;
+font-family: Georgia;
+color: #005177;
+display: block;
+margin:0;
+clear: both;
+}
+
+
+
+#box1 {
+
+background:red;
+width: 300px;
+height: 300px;
+float:left;}
+
+#box2 {
+
+background:red;
+width: 300px;
+height: 300px;
+float:right;}
